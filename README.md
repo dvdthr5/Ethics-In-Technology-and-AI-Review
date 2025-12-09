@@ -1,5 +1,4 @@
 # Ethics in Technology and AI  
-**Final Study Guide — HUMN 15, Fall 2025 (Prof. Lauren Lyons)**
 
 ---
 
