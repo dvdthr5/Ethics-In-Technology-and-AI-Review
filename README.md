@@ -5,23 +5,37 @@
 
 ## Algorithmic Bias
 
+Although being built off of data leads people to believe that algorithms are unbiassed, biasses occur in the data in many different ways, which biasses the output of said algorithm.
+
 ### The Mirroring Problem
+
+The mirroring problem is when faulty, 'garbage' data has been fed into a system that mirrors into the results, such as a company suggesting a man over a women, when they have the same qualifications. 
+
+### The Ratcheting Problem
+
+The ratcheting problem is similar to the mirroring probelm in the sense that garbage data is what starts the issue, but in the ratcheting problem, the data is fed back into the algorithms, in a way that further distorts the data, such as the company that hires the man over the women, retraining the model on their new hiring data, further creating a gender disparity. 
 
 ### Sampling Bias
 
-### The Ratcheting Problem
+Sampling bias is when the sample that the data was collected from is not representative of the entire population, such as a sample of college students. This would not be able to be blanketly applied to people in general, only to other college students. 
 
 ---
 
 ## Neural Nets / AI
 
+Neural Nets and AI agents are extremely sophistocated algorithms which are able to learn and fine tune from labeled data. The general process for making an AI agent is to first gather, sort, and label data. Then take that data and split it into two groups, the testing and the training group, then feed teh data to the model in waves, each time it will learn more and calculate its loss function. After all the iterations of seeing the dataset, the system will find the epoch with the lowest loss function and make that the final state of the model, a process called back propogation. 
+
 ### How Neural Nets Differ from Classical Algorithms
+
+These models differ from classical algorithms in many ways, the main way being complexity. Many times these AI systems are black boxes where the process that turns the input into the output is not clear or easily understandible. Classical algorithms generally should be explainable and able to trace why exactly one input turned into its respective output. 
 
 ---
 
 ## Technological Worldviews
 
 ### Technological Utopianism
+
+
 
 ### Tech-Solutionism
 
