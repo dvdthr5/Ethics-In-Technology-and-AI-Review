@@ -34,9 +34,12 @@ These models differ from classical algorithms in many ways, the main way being c
 
 ### Technological Utopianism
 
+The idea that technology will promote and or lead to a near perfect society. 
 
 
 ### Tech-Solutionism
+
+The idea that every problem, social or political, has a technological solution. 
 
 ---
 
@@ -44,24 +47,44 @@ These models differ from classical algorithms in many ways, the main way being c
 
 ### Moral Status
 
+Moral status is the line defining whether or not a specific thing needs to be treated with respect for their well being. 
+
 ### The Hard Problem of Consciousness
 
+Conciousness is extremely difficult to measure and almost impossible to prove. The only way we are able to deduce conciousness is by seeing traits that are similar to human traits, and assuming that those traits imply conciousness. This would be things like pain. 
+
 ### The Problem of Other Minds
+
+The idea that you could be the only concious person and everyone else could walking around subconciously. Becuase there is almost no way to prove conciousness, it is impossible to even prove that other humans are conciouss. 
 
 ---
 
 ## Human Enhancement & Transhumanism
 
 ### Transhumanism  
+
+The practice of modifying human biology with technology. Current tranhuman devices are mostly centered around helping disabled people to restore their lost functions, but future devices include chips like nueralink. 
+
 ### Moral Issues Raised by Transhumanism
+
+At what point of modification does a person no longer become a person and is at that point a robot? Should people with calculators in their brain be seen as smart or just seen as devices. Once we get into the realm of upgrading our biology with technology, we blur the line of what is human and what is not, what has moral status and what doesn't and more. 
 
 ---
 
 ## Surveillance & Power
 
 ### Surveillance Capitalism  
+
+The phenonmenon when large companies collect analyze and sell personal data in order to better predict peoples actoins to maximize profit. 
+
 ### Data Colonialism  
+
+
+
 ### The Panopticon / Panopticonism  
+
+The panopticon is orginally a prison design from teh 1800s. The idea of panopticism is that by making the people believe there is the constant threat that they are being watched, those people will self regulate and act better, regardless of if they are actually being watched or not. 
+
 ### Power  
 ### Workplace Surveillance  
 ### Algorithmic Domination
@@ -71,6 +94,9 @@ These models differ from classical algorithms in many ways, the main way being c
 ## Gamification & Value
 
 ### Gamification  
+
+The act of amking something game like. Humans have a natural leniency towards games due to their clear goals and easy to determine metrics, so by gamifying things it tends to increase user engagement. 
+
 ### Value Capture
 
 ---
@@ -80,8 +106,17 @@ These models differ from classical algorithms in many ways, the main way being c
 ### Social Epistemology  
 ### Testimony  
 ### Epistemic Bubbles  
+
+People who only hear things that they already believe in which cause them to go even deeper into that hole and possibly believe that there is no way people could think anything else. This can be a personal choice or just because of algorithms. 
+
 ### Echo Chambers  
+
+When the other viewpoint is heard but actively discredited. 
+
 ### Political Polarization  
+
+
+
 ### The Public Sphere / Digital Public Sphere
 
 ---
